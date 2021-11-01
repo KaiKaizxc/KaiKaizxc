@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaiKaizxc
-- 👀 I’m interested in ... learning software engineering! Learning web development as well as challenging coding problems to solve.
-- 🌱 I’m currently learning HTML/CSS, python coding problems. Also looking out for more languages to learn!
+- 👀 I’m interested in ... learning software engineering! 
+- 🌱 I’m currently learning various programming languages, working on C programming currently!
 - 💞️ I’m looking to collaborate on almost anything! I'm quite new so I love to see what's around C:
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
 
