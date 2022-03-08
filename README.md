@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lin Kai!. 
 - 👀 I’m interested in ... software engineering! I do not really have much experiences in the field but I'm looking for new experiences, leaning more towards AI and Blockchain technology.
-- 🌱 I’m strong in problem solving and data structures. I spend most of my time looking at algorithms. I speak C, Python , CSS, and Javascript. Experience with React.js 
-- 💞️ I’m looking to collaborate on almost anything! I'm quite new so I love to see what's around C:
+- 🌱 I’m strong in problem solving and data structures. I spend most of my time looking at algorithms. I speak C, Python , CSS. Beginner experience with React.js and javascript! Currently learning front end development.
+- 💞️ I'm looking for internship opportunities, as well as any interesting project which I might be of help! 
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
 
 <!---
