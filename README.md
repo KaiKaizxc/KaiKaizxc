@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lin Kai!. 
-- 👀 I’m interested in ... software engineering! More specifically, frontend and machine learning.
+- 👀 I’m interested in ... software engineering! More specifically, frontend and machine learning. Others include: Linear Algebra, Statistics, Data Mining and Computer Networks
 - 🌱 I’m strong in problem solving and well versed in multiple languages / tools.
 - 💞️ I'm looking for internship opportunities, feel free to reach out to me! 
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
