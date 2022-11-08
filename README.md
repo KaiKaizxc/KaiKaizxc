@@ -3,6 +3,8 @@
 - 🌱 I'm looking to specialize in Data Science and Artificial Intelligence, studying Maths + Machine Learning Systems.
 - 💞️ I'm looking for internship opportunities, feel free to reach out. More comfortable with Frontend Technologies, still practising ML.
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
+- Leetcode : https://leetcode.com/Kai_Ghost/
+- Kaggle: https://www.kaggle.com/kaikaizxc
 
 <!---
 KaiKaizxc/KaiKaizxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
