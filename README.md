@@ -6,6 +6,9 @@
 - Leetcode : https://leetcode.com/Kai_Ghost/
 - Kaggle: https://www.kaggle.com/kaikaizxc
 
+저 이름은 카이입니다
+저 봐주세요~ 
+
 <!---
 KaiKaizxc/KaiKaizxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
