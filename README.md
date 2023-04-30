@@ -5,6 +5,7 @@
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
 - Leetcode : https://leetcode.com/Kai_Ghost/
 - Kaggle: https://www.kaggle.com/kaikaizxc
+- Favourite languages: C++ & python
 
 저 이름은 카이입니다  
 저 봐주세요~ 
