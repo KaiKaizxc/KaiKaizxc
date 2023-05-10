@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lin Kai, a year 2 NTU student
+- 👋 Hi, I’m Lin Kai, currently y3 @NTU
 - 👀 Interests: Machine Learning / Data Science / Statistics
 - 🌱 I'm looking to specialize in Data Science and Artificial Intelligence, studying Maths + Machine Learning Systems.
 - 💞️ I'm looking for internship opportunities, feel free to reach out. Interested in ML, Statistics, Data and Backend. Previous experience with Frontend. 
