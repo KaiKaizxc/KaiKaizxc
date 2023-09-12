@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Lin Kai, currently y3 @NTU
 - 👀 Interests: Machine Learning / Backend Engineering/  Data Science / Statistics
 - 🌱 I'm looking to specialize in Data Science and Artificial Intelligence, studying Maths + Machine Learning Systems.
-- 💞️ I'm looking for internship opportunities, feel free to reach out. Interested in ML, Statistics, Data Science and quant. Previous experience with Frontend and Backend Engineering
+- 💞️ I'm looking for internship opportunities, feel free to reach out. Interested in Backend Engineering, distributed systems. Previous experience with Frontend and Backend Engineering
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
 - Leetcode : https://leetcode.com/Kai_Ghost/
 - Kaggle: https://www.kaggle.com/kaikaizxc
-- I use mostly: C++ / python 
+- I use mostly: C++ / python, learning Golang at work
 
 
 저 이름은 카이입니다  
