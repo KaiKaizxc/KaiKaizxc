@@ -7,9 +7,10 @@
 - Kaggle: https://www.kaggle.com/kaikaizxc
 - I use mostly: C++ / python, learning Golang at work
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiKaizxc&show_icons=true&theme=dracula)](https://github.com/KaiKaizxc/github-readme-stats)
 
-저 이름은 카이입니다  
-저 봐주세요~ 
+
+Trying to improve everyday 
 
 <!---
 KaiKaizxc/KaiKaizxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
