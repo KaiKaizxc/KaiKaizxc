@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiKaizxc&show_icons=true&theme=dracula)](https://github.com/KaiKaizxc/github-readme-stats)
 
-
+오르카
 Trying to improve everyday 
 
 <!---
