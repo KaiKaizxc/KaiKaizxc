@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email me Linkaizxc@gmail.com 
 - Leetcode : https://leetcode.com/Kai_Ghost/
 - Kaggle: https://www.kaggle.com/kaikaizxc
-- I use mostly: C++ / python, learning Golang at work
+- I use mostly: C++/Golang
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiKaizxc&show_icons=true&theme=dracula)](https://github.com/KaiKaizxc/github-readme-stats)
 
