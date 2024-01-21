@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I’m Lin Kai, currently y3 @NTU
 - 👀 Interests: C++
 - 🌱 I'm looking for people to talk about low level systems, feel free to reach out 
@@ -6,7 +8,13 @@
 - Leetcode : https://leetcode.com/Kai_Ghost/
 - I use mostly: C++/Golang
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiKaizxc&show_icons=true&theme=dracula)](https://github.com/KaiKaizxc/github-readme-stats)
+<div>
+<img height=50, width = 50, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img height=50, width= 50, src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+</div>
+          
+          
+          
 
 <!---
 KaiKaizxc/KaiKaizxc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
